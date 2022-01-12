@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarineLou
 - 👀 I’m interested in graphic design, video games and coding
-- 🌱 I’m currently learning Javascript& JQuery, and I will then learn Vue.JS/Angular/React.
+- 🌱 I’m currently learning Javascript & JQuery, then I will learn Vue.JS/Angular/React
 - 💞️ I’m looking for a place in a upgrowing company
 - 📫 You can reach me by mail on lourdezmarine@gmail.com
