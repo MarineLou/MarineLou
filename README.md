@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Javascript & JQuery, then I will learn Vue.JS/Angular/React
 - 💞️ I’m looking for a place in a upgrowing company
 - 📫 You can reach me by mail on lourdezmarine@gmail.com
+- I will soon upload a new project I'm still working on to show my skills !
